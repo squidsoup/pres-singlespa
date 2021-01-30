@@ -2,6 +2,7 @@
   "name": "pres-singlespa",
   "version": "0.0.1",
   "description": "Migrating Legacy UIs with SingleSPA",
+  "license": "CC-BY-4.0",
   "scripts": {
     "clean": "rimraf dist",
     "build": "webpack",
