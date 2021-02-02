@@ -469,6 +469,7 @@ const Presentation = () => (
       <Heading>Any questions?</Heading>
       <FlexBox>
         <Text>Kit Randel - kit@stacklet.io</Text>
+        <Text>https://kitrandel.com</Text>
       </FlexBox>
     </Slide>
   </Deck>
